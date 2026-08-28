@@ -65,7 +65,7 @@ Two custom 3D-printed lamps using capacitive touch input, a NodeMCU and MQTT ove
 
 A removable 3D-printed crystal designed around a magnetic pogo-pin docking interface. The crystal contains addressable LEDs while an ESP32-C3 and power electronics sit in the base.
 
-![Kyber Crystal](kyber-crystal-prototype-lit.jpeg)
+![Kyber Crystal](assets/kyber-crystal-prototype-lit.jpeg)
 
 **[→ Project details](projects/kyber-crystal/README.md)**
 
