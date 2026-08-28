@@ -15,6 +15,7 @@ I'm a technical recruiter specialising in embedded systems, electronics and deep
 | 🎮 [Raspberry Pi Media & Emulation](projects/raspberry-pi-media-emulation/README.md) | A combined media centre and retro gaming box | Raspberry Pi 5 · Kodi · RetroArch · Linux · NAS |
 | 💡 [Wi-Fi Touch Lamps](projects/mqtt-touch-lamps/README.md) | Networked touch lamps with MQTT control | NodeMCU · TTP223 · MQTT · Wi-Fi · LEDs |
 | 🔮 [Kyber Crystal Night Light](projects/kyber-crystal/README.md) | A removable illuminated 3D-printed crystal with magnetic docking | ESP32-C3 · WS2812B · CAD · 3D printing · Pogo pins |
+| 🪄 [Motion-Tracked Spell Wand](projects/motion-spell-wand/README.md) | An M5Stick-based motion/gesture spell controller prototype | M5Stick · IMU · embedded firmware · LEDs |
 
 ---
 
@@ -69,6 +70,16 @@ A removable 3D-printed crystal designed around a magnetic pogo-pin docking inter
 
 **[→ Project details](projects/kyber-crystal/README.md)**
 
+
+---
+
+## 🪄 Motion-Tracked Spell Wand — Prototype
+
+An M5Stick-based motion/gesture spell controller prototype using an IMU, display and addressable LEDs. The physical 3D-printed wand enclosure is the next stage.
+
+![Spell controller demo](projects/motion-spell-wand/images/wand-spell-demo.gif)
+
+**[→ Project details](projects/motion-spell-wand/README.md)**
 
 ---
 
