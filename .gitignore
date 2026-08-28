@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets / local configuration
+.env
+.env.*
+*.local
+
+# Build output
+build/
+dist/
+
+# Temporary media / exports
+*.tmp
+*.temp
