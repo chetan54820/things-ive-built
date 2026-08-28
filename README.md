@@ -55,7 +55,7 @@ Two custom 3D-printed lamps using capacitive touch input, a NodeMCU and MQTT ove
 
 ![Wi-Fi touch lamps demo](assets/wifi-touch-lamps-demo.gif)
 
-![Finished touch lamps](assets/touch-lamps-finished.jpeg)
+![Finished touch lamps](assets/touch-lamps-internals.jpeg)
 
 **[→ Project details](projects/mqtt-touch-lamps/README.md)**
 
