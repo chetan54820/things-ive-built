@@ -80,7 +80,7 @@ The firmware implements:
 
 ## Current State
 
-The embedded prototype is functional, but the final physical wand has not yet been manufactured.
+The embedded prototype is functional, but the final physical wand has not yet been designed and printed.
 
 The current setup is being used to develop and validate the electronics, firmware and interaction model before integrating everything into the wand enclosure.
 
