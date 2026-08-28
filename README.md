@@ -61,7 +61,7 @@ Two custom 3D-printed lamps using capacitive touch input, a NodeMCU and MQTT ove
 
 ---
 
-## 🔮 Kyber Crystal Night Light
+## 🔮 Kyber Crystal Night Light (Work in Progress)
 
 A removable 3D-printed crystal designed around a magnetic pogo-pin docking interface. The crystal contains addressable LEDs while an ESP32-C3 and power electronics sit in the base.
 
