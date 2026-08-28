@@ -1,6 +1,6 @@
 # 🔮 Kyber Crystal Night Light
 
-A removable, 3D-printed illuminated crystal combining custom CAD, addressable LEDs, an ESP32-C3 and a magnetic pogo-pin docking interface.
+A removable, 3D-printed illuminated crystal combining custom CAD, addressable LEDs, an ESP32-C3 and a magnetic pogo-pin docking interface. This  was spurred by the birth of my friend's child. Eventually, I hope to be able to place the crystal element into a lightsaber to power it up. I wanted to design something that would have multiple uses over a few years with the crystal being key to both the nightlight, and saber elements. Still a work-in-progress!
 
 ## The idea
 
@@ -35,7 +35,7 @@ Drop the crystal into the stand, it self-aligns and the electrical connection is
 
 ## Mechanical design
 
-The design was developed iteratively in OpenSCAD. The repository contains both the source `.scad` files and exported `.stl` files used for printing.
+The design was developed iteratively in OpenSCAD.
 
 ### CAD render — crystal
 
@@ -91,6 +91,6 @@ The ESP32-C3 controls the addressable LED lighting. The removable crystal and ba
 
 ## Design challenge
 
-The interesting engineering problem was the interface between mechanical design and electronics. The dock had to provide repeatable alignment, reliable electrical contact and easy removal while hiding the electronics inside the base.
+The interesting engineering problem was the interface between mechanical design and electronics. The dock had to provide repeatable alignment, reliable electrical contact and easy removal while hiding the electronics inside the base, and simultaneously, the dock design has to be consistent for any future designs, ie, the lightsaber.
 
 The result is effectively a small **docking station for a light source**.
