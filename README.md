@@ -35,7 +35,7 @@ A DIY Ambilight-style system that captures an HDMI video feed, processes the ima
 ![Hyperion demo](assets/hyperion-sonic-demo.gif)
 
 
-![Hyperion wiring diagram](assets/hyperion-wiring-diagram.jpeg)
+![Hyperion wiring diagram](assets/hyperion-wiring-diagram.png)
 
 **[→ Project details](projects/hyperion-ambilight/README.md)**
 
@@ -69,7 +69,6 @@ A removable 3D-printed crystal designed around a magnetic pogo-pin docking inter
 
 **[→ Project details](projects/kyber-crystal/README.md)**
 
-The repository also includes the OpenSCAD source and STL exports used during the design process.
 
 ---
 
@@ -83,32 +82,3 @@ The repository also includes the OpenSCAD source and STL exports used during the
 - 3D CAD and 3D printing
 - Hardware/software integration
 - Debugging real-world systems
-
-## Repository structure
-
-```text
-things-ive-built/
-├── assets/                         # Portfolio photos and diagrams
-├── projects/
-│   ├── magic-mirror/
-│   ├── hyperion-ambilight/
-│   ├── raspberry-pi-media-emulation/
-│   ├── mqtt-touch-lamps/
-│   └── kyber-crystal/
-│       ├── README.md
-│       ├── cad/                    # OpenSCAD + STL files
-│       └── images/                 # CAD renders
-├── .gitignore
-└── README.md
-```
-
-## 🎬 Video demos
-
-Short demos are included as GIF previews so they can be displayed directly in the GitHub README.
-
-- **Hyperion Ambilight:** Sonic the Hedgehog baseball stadium scene, showing the LEDs reacting to the screen.
-- **Wi-Fi Touch Lamps:** finished lamp demonstration.
-
----
-
-*Built for curiosity. Documented so I can remember how the hell I made it work.*
