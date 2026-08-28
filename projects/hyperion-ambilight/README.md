@@ -6,7 +6,7 @@ A DIY Ambilight-style system that analyses a live HDMI video feed and reproduces
 
 ![Hyperion Ambilight demo](../../assets/hyperion-sonic-demo.gif)
 
-The demo uses the **Sonic the Hedgehog movie — baseball stadium scene**, showing the LED colours following the on-screen content.
+The demo uses the **Sonic the Hedgehog movie **, showing the LED colours following the on-screen content.
 
 ## System architecture
 
@@ -68,5 +68,3 @@ I wanted to understand the complete signal chain rather than buying an off-the-s
 ## Demo
 
 The intended demo is a short recording using the **Sonic the Hedgehog movie — baseball stadium scene**, showing the LED colours following the on-screen action.
-
-For GitHub, a short GIF is preferable for inline playback because README files don't provide reliable inline MP4/MOV playback.
